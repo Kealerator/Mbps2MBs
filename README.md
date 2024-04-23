@@ -1,6 +1,6 @@
 **Only Linux compatibility**
 
-**Run the run.sh file**
+**Run the run.sh file in terminal**
 
 **Terminal only**
 
